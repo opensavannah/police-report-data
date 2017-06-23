@@ -4,7 +4,7 @@
 ### FIRST: Sign up for a few workbooks to tackle by opening an [issue](https://github.com/opensavannah/police-data-raw-source-files/issues/) here on GitHub. That way we won't overlap.
 
 
-1. Remove all decorative formatting (images, link breaks, etc.) and summary rows so that there is only one (1) title field row with as many columns as there may be (typically crimetypes). 
+1. Go to the worksheet entitled `Total Jurisdictions` and just stick with that one for now. Remove all decorative formatting (images, link breaks, etc.) and summary rows so that there is only one (1) title field row with as many columns as there may be (typically crimetypes). 
 2. Make sure you have a report date `date` column formatted `YYYY-MM-DD`.
 3. When finished, export *just the last sheet with the weekly summaries* as a '.csv' and either submit it as a PR to this repository or post it to http://forum.opensavannah.org.
 
